@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![State Flags](https://res.cloudinary.com/dafolrlpj/image/upload/v1621774022/gallery/idp2mmafp2dgrfpnyaqm.gif)
+![State Flags](https://res.cloudinary.com/dafolrlpj/image/upload/v1621775969/gallery/jhelbl3ulxdmxifjt63i.gif)
 
 
 
