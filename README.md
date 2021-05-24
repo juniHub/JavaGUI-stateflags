@@ -136,8 +136,8 @@ Project Link: [Java GUI State Flags](https://github.com/juniHub/JavaGUI-statefla
 [forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-stateflags.svg?style=for-the-badge
 [forks-url]: https://github.com/juniHub/JavaGUI-stateflags/network/members
 [stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-stateflags.svg?style=for-the-badge
-[stars-url]: https://github.comjuniHub/JavaGUI-stateflags/stargazers
+[stars-url]: https://github.com/juniHub/JavaGUI-stateflags/stargazers
 [issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-stateflags.svg?style=for-the-badge
-[issues-url]: https://github.com/gjuniHub/JavaGUI-stateflags/issues
+[issues-url]: https://github.com/juniHub/JavaGUI-stateflags/issues
 [license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-stateflags.svg?style=for-the-badge
 [license-url]: https://github.com/juniHub/JavaGUI-stateflags/blob/master/LICENSE.txt
