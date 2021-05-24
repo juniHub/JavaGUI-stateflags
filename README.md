@@ -89,7 +89,7 @@ IDE I am using for this project as listed below:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/juniHub/JavaGUI-clock.git
+   git clone https://github.com/juniHub/JavaGUI-stateflags.git
    ```
 2. Click Run on Visual Studio Code with built-in Java SDK
 
